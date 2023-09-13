@@ -10,3 +10,11 @@ header {
     background-color: aquamarine;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: rebeccapurple;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
