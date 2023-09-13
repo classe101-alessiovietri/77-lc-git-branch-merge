@@ -3,3 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+}
